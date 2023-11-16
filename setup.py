@@ -7,5 +7,5 @@ setup(
     author="Maharshi Sen",
     author_email="maharshi.sen@fau.de",
     packages=find_packages(),
-    install_requires=["random","unittest"],
+    install_requires=[],
 )
